@@ -28,6 +28,9 @@ descent algorithm and making use of tensorflow. Following results have been obta
 
 <a href="https://ibb.co/hZ1gHgX"><img src="https://i.ibb.co/D8g1k1G/stocks5.png" alt="stocks5" border="0"></a>
 
+### Return after 7 year of investment
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Hxkh3Gxq/stocks.png' border='0' alt='stocks'/></a>
+
 ## Conclusion:
 
-The randomized portfolio is performed worstly and provided nearly no return on investment and investment has fluctuated around $1 Million while the Optimized portfolio has outperformed with the lowest risk and highest resturns with return of approx. $8.5 Million.
+The randomized portfolio is performed worstly and provided nearly no return on investment and investment has fluctuated around $1 Million while the Optimized portfolio has outperformed with the lowest risk and highest resturns with return of approx. $8.6 Million.
